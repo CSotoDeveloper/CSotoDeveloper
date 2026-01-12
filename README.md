@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm a Full-Stack Engineer with 3+ years of experience building scalable systems (ERPs, SaaS, B2B) and data pipelines. I enjoy turning messy, real-world workflows into reliable, production-grade products that make people's work faster and decisions smarter.
-<img src="https://skillicons.dev/icons?i=php,python,nodejs,mysql,postgres,sqlserver,docker,git" />
 
 ## Stack
 
