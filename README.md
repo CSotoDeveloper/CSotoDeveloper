@@ -8,13 +8,13 @@ I specialize in transforming complex, real-world business workflows into **robus
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,angular,ts,tailwind" />
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <img src="https://skillicons.dev/icons?i=php,python,nodejs" />
 
-### 🧰 DevOps & Databases
+### DevOps & Databases
 <img src="https://skillicons.dev/icons?i=docker,git,postgresql,graphql,mysql,sqlserver" />
 
 ---
