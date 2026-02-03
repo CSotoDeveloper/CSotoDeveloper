@@ -26,7 +26,7 @@ I specialize in transforming complex, real-world business workflows into **robus
 - Developed and maintained **ERP modules** used in production environments.
 - Performed **web scraping and data automation** tasks to support business operations.
 - Led the **migration of legacy systems to Laravel**, improving performance and maintainability.
-- Built reusable frontend components using **React**.
+- Built reusable frontend components using **Angular**.
 - Worked across **PHP, Node.js, Python, and SQL Server** in multi-stack environments.
 
 ---
